@@ -17,3 +17,6 @@ Focused on backend development, databases, and web technologies.
 - Passionate about **basketball** and sports — they keep me disciplined and energized.
 - Solid understanding of computer organization and networking fundamentals
 - Deeply interested in **Performance Optimization** and **System Design**.
+
+### 📫 Connect with me:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flayvh)
