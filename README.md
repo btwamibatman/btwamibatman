@@ -1,4 +1,4 @@
-## Hi, my name is Khamza
+## Hi, I'm Khamza
 
 Backend-focused full-stack developer.
 Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
