@@ -2,11 +2,13 @@
 
 Backend-focused full-stack developer.  
 Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
-
-🛠 **Tech stack**
+🛠**Tech stack**
 - **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
+- 
 - **Frontend:** Vue.js, JavaScript, TypeScript, HTML, CSS
+- 
 - **Databases:** PostgreSQL, SQLite, NoSQL, Entity Framework Core
+- 
 - **DevOps & Tools:** Git, Docker, Linux
 
 🎓 **Education**  
