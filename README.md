@@ -3,7 +3,7 @@
 Backend-focused full-stack developer.<br>
 Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
 
-🛠**Tech stack:**  
+🛠**Tech stack**
 - **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
 - **Frontend:** Vue.js, JavaScript, TypeScript, HTML, CSS
 - **Databases:** PostgreSQL, SQLite, NoSQL, Entity Framework Core
@@ -14,7 +14,7 @@ Designing scalable architectures, working with databases, and applying AI/ML too
 BSc in Software Engineering
 
 🔹 **About Me**<br>
-Outside of coding, I’m into basketball and videogames.
+Outside of coding, I’m into basketball and videogames.<br>
 Deeply interested in **Performance Optimization** and **System Design**.
 
 ### 📫 Connect with me:
