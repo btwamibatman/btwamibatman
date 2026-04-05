@@ -1,6 +1,6 @@
 ## Hi, I'm Khamza
 
-Backend-focused full-stack developer.<br>
+Backend-focused full-stack developer.  
 Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
 
 🛠**Tech stack**
