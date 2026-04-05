@@ -4,14 +4,14 @@ Backend-focused full-stack developer.
 Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
 
 🛠**Tech stack:**  
-- **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, Fast API, REST APIs
-- **Frontend:** Vue.js, JavaScript, TypeScript, HTML5, CSS3
+- **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
+- **Frontend:** Vue.js, JavaScript, TypeScript, HTML, CSS
 - **Databases:** PostgreSQL, SQLite, NoSQL, Entity Framework Core
 - **DevOps & Tools:** Git, Docker, Linux
   
 🎓 **Education**
 **Astana IT University (AITU)**
-BSc in Software Engineering(2024/27)
+BSc in Software Engineering
 
 🔹 **About Me**
 Outside of coding, I’m into basketball and videogames.
