@@ -16,9 +16,5 @@
 **Astana IT University (AITU)**  
 BSc in Software Engineering
 
-🔹 **About Me**  
-Outside of coding, I’m into basketball and videogames.  
-Deeply interested in **Performance Optimization** and **System Design**.
-
 ### 📫 Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flayvh)
