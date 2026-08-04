@@ -3,18 +3,18 @@
  Backend-focused full-stack developer.  
  Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
 
-🛠**Tech stack**
-- **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
+**Tech stack**
+ **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
   
-- **Frontend:** Vue.js, JavaScript, TypeScript, HTML, CSS
+ **Frontend:** Vue.js, JavaScript, TypeScript, HTML, CSS
   
-- **Databases:** PostgreSQL, SQLite, NoSQL, Entity Framework Core
+ **Databases:** PostgreSQL, SQLite, NoSQL, Entity Framework Core
   
-- **DevOps & Tools:** Git, Docker, Linux
+ **DevOps & Tools:** Git, Docker, Linux
 
-🎓 **Education**  
+**Education**  
 **Astana IT University (AITU)**  
 BSc in Software Engineering
 
-### 📫 Connect with me:
+### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flayvh)
