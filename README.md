@@ -1,7 +1,6 @@
 ## Hi, I'm Khamza
 
- Backend-focused full-stack developer.  
- Designing scalable architectures, working with databases, and applying AI/ML tools in projects.
+Backend-focused full-stack developer.
 
 **Tech stack**
  **Backend:** .NET (ASP.NET Core), Node.js (Express), Flask, FastAPI, REST APIs
@@ -14,7 +13,6 @@
 
 **Education**  
 **Astana IT University (AITU)**  
-BSc in Software Engineering
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flayvh)
